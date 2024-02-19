@@ -1,3 +1,4 @@
-# Advent of Code 2023
+# Advent of Code 
+---
 
-Learning Golang through AoC 2023
+**Currently working on learning Go through solving AoC 2023**
